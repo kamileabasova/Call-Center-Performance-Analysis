@@ -5,8 +5,6 @@ This project analyzes call center performance using Power BI, focusing on employ
 ![Dashboard Overview](Dashboard-Overview.png.png)
 ## Dashboard 2: Employee Performance
 ![Employee Performance](Employee-Performance.png.png)
-## Dashboard 3: Calls by Weekday
-![Calls by Weekday](Weekday-Calls.png.png)
 ## Tools Used
 - Power BI
 - DAX
